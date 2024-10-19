@@ -21,7 +21,7 @@ const Intro = () => {
           technology and innovation to create intelligent solutions for a better future.
           </p>
           <div className="resume">
-            <a href={sample} download="sample.pdf">Resume</a>
+            <a href={sample} download="DS_mausham_resume.pdf">Resume</a>
           </div>
         </div>
         <div className="right-wrapper">
