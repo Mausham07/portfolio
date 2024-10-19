@@ -1,42 +1,45 @@
-# Mausham Bista - Portfolio Website
+## Overview
 
-Welcome to my portfolio website! This site showcases my journey as an aspiring Data Engineer, Software Developer, and Data Analyst. Here, you'll find details about my skills, projects, and professional experience, along with ways to get in touch with me for potential collaborations.
+**Project Title**: Portfolio Website - Mausham Bista
 
-## Website Overview
-[Website](https://mausham07.github.io/portfolio/)
-This portfolio is designed to provide an overview of my technical expertise and professional background. It includes:
+**Project Description**: This is a personal portfolio website that showcases my skills, projects, and experience as an aspiring Data Engineer, Software Developer, and Data Analyst. The site includes dynamic content generation based on user input, error checking mechanisms, and interactive components. It also features a clean, responsive design with images and CSS stored within the app's codebase.
 
-- **About Me**: A brief introduction to my academic background and experience as a Computer Science student at Brigham Young University - Idaho, highlighting my passion for data engineering and software development.
-- **Skills**: A section that outlines the programming languages and tools I am proficient in, including Python, SQL, C#, JavaScript, Pandas, and more.
-- **Projects**: Showcases detailed descriptions of my key projects, such as:
-  - **Database Setup for E-commerce Insights**: A data engineering project involving Python, SQL Alchemy, and PostgreSQL.
-  - **Spotify ETL Data Pipeline**: An automated ETL process for Spotify data using AWS services.
-  - **Obsession Gym Center**: A web development project showcasing HTML and CSS skills.
-- **Contact**: Information on how to reach me for collaboration or potential roles.
+**Project Goals**: The primary goal of this project is to create an interactive platform to demonstrate my technical capabilities in web development, data engineering, and software engineering. 
 
-## Key Features
+## Instructions for Build and Use
 
-- **Responsive Design**: The website is fully responsive and optimized for viewing on different devices, ensuring smooth navigation.
-- **Projects Section**: Each project description outlines the problem solved, technologies used, and the impact of the solution.
-- **Contact Form**: Visitors can directly reach out to me via the contact form, making it easy to discuss potential collaborations or opportunities.
+Steps to build and/or run the software:
 
-## Technologies Used
+1. Clone the repository: ```git clone https://github.com/maushambista/portfolio-website.git```
+2. Navigate to the project folder: ```cd portfolio-website```
+3. Install the required dependencies: ```npm install```
+4. Start the development server: ```npm start```
 
-- **Frontend**: HTML, CSS
-- **Backend/Server-side**: N/A (static website)
-- **Hosting**: GitHub Pages (or the hosting service you use)
-- **Version Control**: Git
+Instructions for using the software:
 
-## How to Run Locally
+1. Once the development server is running, open a browser and navigate to ```http://localhost:3000```.
+2. Interact with the various sections of the portfolio, including the contact form which accepts user input.
 
-To run this website on your local machine:
+## Development Environment 
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/maushambista/portfolio-website.git
-   cd portfolio-website
-   npm install
-   npm start
+To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
+* React.js
+* npm
+* Node.js
 
+## Useful Websites to Learn More
 
+I found these websites useful in developing this software:
+
+* [React Documentation](https://react.dev/)
+* [CSS Tricks](https://css-tricks.com/)
+* [JavaScript Info](https://javascript.info/)
+
+## Future Work
+
+The following items I plan to fix, improve, and/or add to this project in the future:
+
+* [ ] Add a blog section to share insights on data engineering and software development.
+* [ ] Expand the project section with additional completed projects.
+* [ ] Improve form validation and user feedback across all inputs.
