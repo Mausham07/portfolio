@@ -3,7 +3,7 @@
 Welcome to my portfolio website! This site showcases my journey as an aspiring Data Engineer, Software Developer, and Data Analyst. Here, you'll find details about my skills, projects, and professional experience, along with ways to get in touch with me for potential collaborations.
 
 ## Website Overview
-
+[Website](https://mausham07.github.io/portfolio/)
 This portfolio is designed to provide an overview of my technical expertise and professional background. It includes:
 
 - **About Me**: A brief introduction to my academic background and experience as a Computer Science student at Brigham Young University - Idaho, highlighting my passion for data engineering and software development.
