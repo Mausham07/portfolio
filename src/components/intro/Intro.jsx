@@ -11,15 +11,13 @@ const Intro = () => {
           <h1 className="i-name">MAUSHAM BISTA</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
-              <div className="i-title-item">Machine Learning</div>
-              <div className="i-title-item">Data Science</div>
-              <div className="i-title-item">Full Stack Developer</div>
-              <div className="i-title-item">UI/UX Designer</div>
+              <div className="i-title-item">Data Engineer</div>
               <div className="i-title-item">Software Developer</div>
+              <div className="i-title-item">Data Analyst</div>
             </div>
           </div>
           <p className="i-desc">
-          an aspiring software developer with a passion for machine learning. Exploring the intersection of 
+          an aspiring data enginee with a passion for machine learning. Exploring the intersection of 
           technology and innovation to create intelligent solutions for a better future.
           </p>
           <div className="resume">

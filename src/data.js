@@ -4,15 +4,15 @@
 export const products = [
     {
       id: 1,
-      project:"Blog Site Clone",
-      link: "https://github.com/Mausham07/blog_site_clone",
-      description: "For the Blog Clone Site, I utilized a powerful combination of Django, Bootstrap, HTML, CSS, and jQuery. This website provides users with a platform to create, edit, and delete their own blog posts. Additionally, they can interact with other users by adding comments to blog posts, and they have the ability to edit and delete their own comments as well. The integration of these technologies enables a seamless and user-friendly experience, allowing individuals to express their thoughts and engage in meaningful discussions through the blog platform."
+      project:"Database Setup for E-commerce Insights",
+      link: "https://github.com/Mausham07/E-Commerce_Data_modeling",
+      description: "I designed and implemented a data loading script using Python, SQL Alchemy, and PostgreSQL to streamline the import process for five e-commerce datasets, improving data accessibility for analysis. In addition, I developed a schema for four relational tables, incorporating foreign key constraints to ensure data integrity, which enhanced the reliability of over 100,000 transactional records. To further optimize memory usage, I executed random sampling of 10,000 rows from large datasets, enabling efficient data processing and analysis within a resource-constrained environment."
     },
     {
       id: 2,
-      project:"Connect Four Dots",
-      link: "https://mausham07.github.io/Four-dot-game/",
-      description: "I developed an interactive and engaging game using JavaScript, HTML, and CSS. The objective of the game is to strategically connect four dots either diagonally, vertically, or horizontally in order to win. This game provides a thrilling experience for two players, who can compete against each other in a battle of wits and tactics."
+      project:"Spotify_ETL_Data_Pipeline",
+      link: "https://github.com/Mausham07/Spotify_Data_Pipeline-ETL-",
+      description: "This project automates the ETL process for Spotify playlist data into an AWS S3 bucket, using Python, AWS Lambda, and other AWS services. It extracts data with the Spotipy library, automates extraction with AWS CloudWatch, and triggers data transformation upon completion. The transformed data is organized into structured data frames and stored in separate folders within S3. This setup facilitates automatic detection by AWS Glue crawlers and enables querying with Amazon Athena. The pipeline ensures scalable, efficient, and organized data processing, maintaining data integrity and accessibility for analytics."
     },
     {
       id: 3,
